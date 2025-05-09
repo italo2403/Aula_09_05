@@ -84,7 +84,4 @@ flutter pub get           # Atualiza dependências Flutter
 npm install               # Reinstala pacotes Node.js
 npm uninstall firebase-admin   # Remove firebase (caso tenha instalado)
 
-✅ Finalizado!
-
-Você agora tem uma comunicação funcional entre Flutter e Node.js com envio de dados simples via HTTP.
 
